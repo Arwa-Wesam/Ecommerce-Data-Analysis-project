@@ -1,6 +1,6 @@
 # 🚚 Olist E-Commerce Logistics Analysis
-> **An Interactive Streamlit Dashboard for Supply Chain Optimization**
-Developed by Arwa Wesam Elsayed
+> **An Interactive Streamlit Dashboard for Supply Chain Optimization** Developed by Arwa Wesam Elsayed
+> 
 > ⁠*Note:* This project was developed as part of the Data Science Diploma at *[Epsilon AI Institute](https://github.com/epsilonai)*. 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
