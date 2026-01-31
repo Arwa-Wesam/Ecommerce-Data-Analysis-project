@@ -25,13 +25,13 @@ This project provides a comprehensive analysis of the **Olist Logistics Dataset*
 | :--- | :--- | :--- |
 | **Delivery Time** | High variance with extreme outliers in specific states. | Optimize routes for far-distance states. |
 | **Sales Performance** | Top 3 categories generate over 40% of total revenue. | Priority "Express" shipping for top sellers. |
-| **Customer Satisfaction** | Delays significantly drop ratings to 1 or 2 stars. | Real-time tracking to manage expectations. |
+| **Customer Satisfaction** | Delays significantly drop ratings to 1 star. | Real-time tracking to manage expectations. |
 | **Premium Products** | High demand but sensitive to delivery speed. | Use specialized carriers for fragile/expensive items. |
 
 ---
 
 ## 🚀 Interactive Dashboard Features
-The **Streamlit App** is designed with a **Comfortable Dark Mode** 🌙 and interactive icons:
+The **Streamlit App** is designed with a **Comfortable theme** 🌙 and interactive icons:
 
 * **📈 Delivery Performance:** Real-time tracking of cumulative delay rates.
 * **💎 Top Sales:** Deep dive into high-revenue product categories.
