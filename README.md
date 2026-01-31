@@ -1,4 +1,5 @@
 # 🚚 Olist E-Commerce Logistics Analysis
+The used data (from kaggle): https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 > **An Interactive Streamlit Dashboard for Supply Chain Optimization** Developed by Arwa Wesam Elsayed
 > 
 > ⁠*Note:* This project was developed as part of the Data Science Diploma at *[Epsilon AI Institute](https://github.com/epsilonai)*.
